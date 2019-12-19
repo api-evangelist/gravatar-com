@@ -1,0 +1,58 @@
+{
+    "name": "Gravatar.com",
+    "description": "A globally recognized avatar and profile that represents you online across millions of sites. Part of the @Automattic family.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/804-gravatar-com.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "photos",
+        "social",
+        "users"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gravatar-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gravatar.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/804-gravatar-com.jpg",
+            "humanURL": "http:\/\/en.gravatar.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.gravatar.com\/avatar\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.gravatar.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gravatar"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gravatar"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gravatar"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/gravatar"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/en.gravatar.com"
+        }
+    ]
+}
